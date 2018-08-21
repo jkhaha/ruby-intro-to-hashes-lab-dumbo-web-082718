@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def new_hash
   {}
@@ -56,9 +56,5 @@ def monopoly_with_fourth_tier
 	}
 end
 end
-end
 
-
-binding.pry
-puts goodbye
 
